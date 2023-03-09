@@ -1,0 +1,1 @@
+let vraag = int(input('voer een getal in'))
